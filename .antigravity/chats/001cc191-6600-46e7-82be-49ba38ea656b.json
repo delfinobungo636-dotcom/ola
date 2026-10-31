@@ -52,6 +52,18 @@
       "created_at": "2026-10-31T10:53:01.815Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "0687e865-ad54-45b3-baa2-cbffd8d485b1",
+      "role": "user",
+      "content": "I connected, I connected this, I connected this app to my GitHub repository, so I want to know if you know or you can see my representaries, each one of them, understanding if you can understand each one. Service, what is what, what is what, so we can, beginning discussing about them, to know how to, you know, primage them.  Okay?  That's like that.  So, besides seeing this repository just has a photo.  You can actually see those repository.  In my guitar, like understand all the files, see, I'll defy that it has understanding the system they have, understanding all the branches, so understanding how it works.  So and knowing how to subject what it could be or why you can be better in the code.",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-31T10:54:40.580Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
